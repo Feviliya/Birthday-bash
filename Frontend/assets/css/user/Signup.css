@@ -1,0 +1,12 @@
+.signup-box{
+    padding: 50px 80px;
+    width: 60%;
+    height: 100vh;
+    background-color: rgb(192, 249, 188);
+}
+#signup-box-main{
+    display: flex;
+}
+.signup-box .inp{
+    width: 70%;
+}
