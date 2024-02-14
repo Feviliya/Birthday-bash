@@ -1,0 +1,47 @@
+.side-nav{
+    margin-left: 62vh;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    gap: 20px;
+    width: 10%;
+    padding-top: 70px;
+    background-color: rgb(60, 70, 121);
+    border-radius: 0px 0px 10px 10px;
+}
+.admin-dash img{
+    position: fixed;
+    margin-left: -90vh;
+    
+    width: 150vh;
+}
+.side-nav a{
+    padding: 50px 20px;
+    text-decoration: none;
+    color: white;
+}
+#balloon{
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 68vh;
+    z-index: 2;
+    padding: 2px;
+}
+.side-nav a:hover{
+    background-color: rgba(177, 210, 254, 0.596);
+    color: black;
+    
+}
+
+.admin-contents{
+    /* background-color: rgb(186, 208, 254); */
+    margin-left: 83vh;
+    /* width: 112vh; */
+    padding: 20px;
+    /* height: 100vh; */
+}
+
+.event-venue div{
+    display: flex;
+    gap: 2%;
+}

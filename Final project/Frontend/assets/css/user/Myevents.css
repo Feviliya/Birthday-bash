@@ -1,0 +1,13 @@
+.profile, .bookings{
+    padding: 20px;
+    font-size: 15px;
+    box-shadow: 1px 1px 8px gray;
+}
+.profile-contents{
+    padding: 20px;
+}
+
+.profile-input:focus{
+    border: none;
+    outline: none;
+}

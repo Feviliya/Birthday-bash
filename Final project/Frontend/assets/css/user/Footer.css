@@ -1,0 +1,18 @@
+.footer-main{
+    display: flex;
+    padding: 40px 0px 0px 60px;
+    gap: 10%;
+}
+.footer-main-div{
+    width: 30%;
+}
+.social-links{
+    display: flex;
+    gap: 10%;
+}
+.social-links a{
+    color: black;
+}
+.social-links a:hover{
+    transform: scale(1.2);
+}

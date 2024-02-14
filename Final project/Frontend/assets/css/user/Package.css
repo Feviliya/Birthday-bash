@@ -1,0 +1,18 @@
+input[type="checkbox"]{
+    width: 50px;
+    height: 20px;
+}
+.package-form{
+    padding: 30px 50px 30px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    box-shadow: 1px 1px 10px rgb(135, 137, 135);
+    margin: 30px 180px;
+    border-radius: 10px;
+    
+}
+.package-note{
+    font-size: 12px;
+    /* padding: 0px 190px; */
+}

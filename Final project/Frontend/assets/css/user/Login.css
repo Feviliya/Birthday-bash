@@ -1,0 +1,26 @@
+#log-box-main{
+    display: flex;
+    height: 100vh;
+    
+}
+.emp-box{
+    background-color: #aaeaf6;
+    /* text-align: center; */
+    width: 50%;
+    padding: 150px 100px;
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+}
+.emp-box .inp{
+    width: 50vh;
+}
+.login-girl{
+    margin: 130px 70px;
+}
+.admin-login-box{
+    
+}
+.admin-box{
+    background-color: rgba(154, 249, 165, 0.838);
+}
